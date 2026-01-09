@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889003F4-28AB-4893-AC79-72D092DBC2DB}|ATM.ConsoleApp\\ATM.ConsoleApp.csproj|C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\atm.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889003F4-28AB-4893-AC79-72D092DBC2DB}|ATM.ConsoleApp\\ATM.ConsoleApp.csproj|solutionrelative:atm.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169FF475-D865-441C-83A5-4AA2109124DD}|ATM.WindowsForms\\ATM.WindowsForms.csproj|C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\atm.windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169FF475-D865-441C-83A5-4AA2109124DD}|ATM.WindowsForms\\ATM.WindowsForms.csproj|solutionrelative:atm.windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBB6501-9CCC-4708-A90D-580033E45705}|lab2\\ATM.Core.csproj|c:\\users\\ikuzm\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.net\\lab2\\lab2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBB6501-9CCC-4708-A90D-580033E45705}|lab2\\ATM.Core.csproj|solutionrelative:lab2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169FF475-D865-441C-83A5-4AA2109124DD}|ATM.WindowsForms\\ATM.WindowsForms.csproj|C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\atm.windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{169FF475-D865-441C-83A5-4AA2109124DD}|ATM.WindowsForms\\ATM.WindowsForms.csproj|solutionrelative:atm.windowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ATM.WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.WindowsForms\\Form1.cs",
+              "RelativeToolTip": "ATM.WindowsForms\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:55:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ATM.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ATM.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:53:09.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\lab2\\Class1.cs",
+              "RelativeDocumentMoniker": "lab2\\Class1.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\lab2\\Class1.cs",
+              "RelativeToolTip": "lab2\\Class1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:51:37.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.WindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ATM.WindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab2\\ATM.WindowsForms\\Form1.cs [Design]",
+              "RelativeToolTip": "ATM.WindowsForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:54:39.286Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

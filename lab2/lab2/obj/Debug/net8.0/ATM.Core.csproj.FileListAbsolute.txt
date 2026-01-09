@@ -1,0 +1,12 @@
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\bin\Debug\net8.0\ATM.Core.deps.json
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\bin\Debug\net8.0\ATM.Core.dll
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\bin\Debug\net8.0\ATM.Core.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.AssemblyInfoInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.AssemblyInfo.cs
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.csproj.CoreCompileInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.sourcelink.json
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.dll
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\refint\ATM.Core.dll
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ATM.Core.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\lab2\obj\Debug\net8.0\ref\ATM.Core.dll

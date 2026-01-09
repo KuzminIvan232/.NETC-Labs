@@ -1,0 +1,10 @@
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\obj\Debug\ATM.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\obj\Debug\ATM.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\bin\Debug\ATM.ConsoleApp.exe.config
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\bin\Debug\ATM.ConsoleApp.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\bin\Debug\ATM.ConsoleApp.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\bin\Debug\ATM.Core.dll
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\bin\Debug\ATM.Core.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\obj\Debug\ATM.Cons.D38FD422.Up2Date
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\obj\Debug\ATM.ConsoleApp.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.ConsoleApp\obj\Debug\ATM.ConsoleApp.pdb

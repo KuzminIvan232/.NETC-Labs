@@ -1,0 +1,13 @@
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.Form1.resources
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.Properties.Resources.resources
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.csproj.GenerateResource.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\bin\Debug\ATM.WindowsForms.exe.config
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\bin\Debug\ATM.WindowsForms.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\bin\Debug\ATM.WindowsForms.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\bin\Debug\ATM.Core.dll
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\bin\Debug\ATM.Core.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.Wind.7098DF9E.Up2Date
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab2\ATM.WindowsForms\obj\Debug\ATM.WindowsForms.pdb
