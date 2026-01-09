@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|c:\\users\\ikuzm\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.net\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|c:\\users\\ikuzm\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.net\\lab3\\lab3\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|solutionrelative:lab3\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|c:\\users\\ikuzm\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.net\\lab3\\lab3\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4D6125-2DD4-457B-AAA5-4CF8C7FB2D21}|lab3\\lab3.csproj|solutionrelative:lab3\\extendeddictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtendedDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\ExtendedDictionary.cs",
+              "RelativeDocumentMoniker": "lab3\\ExtendedDictionary.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\ExtendedDictionary.cs*",
+              "RelativeToolTip": "lab3\\ExtendedDictionary.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:35:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\Extensions.cs",
+              "RelativeDocumentMoniker": "lab3\\Extensions.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\Extensions.cs*",
+              "RelativeToolTip": "lab3\\Extensions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:34:52.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\ikuzm\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\.NET\\lab3\\lab3\\Program.cs*",
+              "RelativeToolTip": "lab3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:34:28.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
