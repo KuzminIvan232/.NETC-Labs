@@ -1,0 +1,7 @@
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Навчання\.NET\lab1\lab1\obj\Debug\lab1.pdb
